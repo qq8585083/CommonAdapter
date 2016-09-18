@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CommonAdapter</string>
+
+    <string name="main_listview_simple_lable">ListView Simple</string>
+    <string name="main_listview_lable">ListView Multiple Layout</string>
+    <string name="main_recyclerview_simple_lable">RecyclerView Simple</string>
+    <string name="main_recyclerview_lable">RecyclerView Multiple Layout</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
